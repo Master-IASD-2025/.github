@@ -1,24 +1,16 @@
 # AI & Data Science Community – FST Tanger 🤖📊
 
-This GitHub organization is a student-led initiative created by members of the  
-AI and Data Science Master at FST Tanger 🎓.
+This GitHub organization is a student-led initiative created by members of the   AI and Data Science Master at FST Tanger 🎓.
 
-The purpose of this organization is to create meaningful open-source impact in  
-Artificial Intelligence and Data Science, while giving real practical value to  
-students through collaboration, experimentation, and real-world projects 🌍.
+The purpose of this organization is to create meaningful open-source impact in   Artificial Intelligence and Data Science, while giving real practical value to   students through collaboration, experimentation, and real-world projects 🌍.
 
 ---
 
 ## Vision 🔭
 
-We believe that students are not only learners, but also contributors to the  
-global AI ecosystem. Our vision is to build a strong, collaborative AI community  
-that produces high-quality open-source projects and helps position Moroccan  
-talent on the international stage 🇲🇦🌐.
+We believe that students are not only learners, but also contributors to the   global AI ecosystem. Our vision is to build a strong, collaborative AI community   that produces high-quality open-source projects and helps position Moroccan   talent on the international stage 🇲🇦🌐. 
 
-This organization aims to become a reference for student-driven AI and Data  
-Science innovation in Morocco.
-
+This organization aims to become a reference for student-driven AI and Data   Science innovation in Morocco. 
 ---
 
 ## Goals 🎯
@@ -35,8 +27,7 @@ Science innovation in Morocco.
 
 ## Scope of Work 🧠
 
-The projects and contributions in this organization may include, but are not  
-limited to:
+The projects and contributions in this organization may include, but are not   limited to:
 
 - Machine Learning and Deep Learning  
 - Data Analysis and Visualization  
@@ -59,20 +50,14 @@ limited to:
 
 ## Who This Is For 👥
 
-This organization is primarily intended for students of the  
-AI and Data Science Master at FST Tanger, as well as motivated contributors who  
-share the same values and goals.
+This organization is primarily intended for students of the   AI and Data Science Master at FST Tanger, as well as motivated contributors who   share the same values and goals.
 
-Skill level is not a barrier. Commitment, curiosity, and consistency matter more  
-than experience 💡.
+Skill level is not a barrier. Commitment, curiosity, and consistency matter more than experience 💡.
 
 ---
 
 ## Final Statement ✨
 
-This organization exists to transform learning into contribution and ideas into  
-impact.
+This organization exists to transform learning into contribution and ideas into impact.
 
-Through collective effort and open-source collaboration, we aim to participate  
-actively in shaping the future of Artificial Intelligence and Data Science in  
-Morocco 🚀.
+Through collective effort and open-source collaboration, we aim to participate actively in shaping the future of Artificial Intelligence and Data Science in Morocco 🚀.
